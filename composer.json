@@ -9,8 +9,8 @@
   ],
   "require": {
     "php": ">=5.3.0",
-    "luka8088/phops": "@dev",
-    "luka8088/phutils": "@dev"
+    "luka8088/phops": "dev-master",
+    "luka8088/phutils": "dev-master"
   },
   "repositories": [
     {
